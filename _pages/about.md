@@ -2,7 +2,7 @@
 permalink: /
 title: "Elijah Spiegel, PhD Candidate"
 description: "Elijah Spiegel is a PhD candidate at UC Irvine specializing in formal epistemology."
-author_profile: true
+author_profile: false
 redirect_from:
   - /about/
   - /about.html
