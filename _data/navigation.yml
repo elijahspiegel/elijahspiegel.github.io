@@ -9,17 +9,20 @@
 
 main:
 
-  - title: "CV"
-    url: /cv/
+  - title: "Home"
+    url: /
 
-  - title: "Publications"
-    url: /publications/
+  - title: "Research"
+    url: /research/
 
   - title: "Talks"
     url: /talks/
 
   - title: "Teaching"
     url: /teaching/
+
+  - title: "CV"
+    url: /cv/
   
     
     
