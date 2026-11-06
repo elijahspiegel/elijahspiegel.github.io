@@ -16,5 +16,5 @@ You can find more details in my [publications](/publications/) and [CV](/cv/).
 
 When I am not working, I am usually (if I'm being intentional with my time) baking bread or cooking. 
 
-You can reach me at espiegel (ignore this bit) at uci dot edu.
+You can reach me at espiegel(at)uci(dot)edu.
 
