@@ -12,7 +12,7 @@ I am a PhD candidate at UC Irvine's Department of Logic and Philosophy of Scienc
 
 My research is in formal epistemology (Bayesian, typically) and philosophy of statistics (Bayesian, typically). I also have general interests in philosophy of science, game theory, and the history of logical empiricism. 
 
-You can find more details in my [publications](/publications/) and [CV](/cv/).
+You can find more details in my [publications](/research/) and [CV](/cv/).
 
 When I am not working, I am usually (if I'm being intentional with my time) baking bread or cooking. 
 
