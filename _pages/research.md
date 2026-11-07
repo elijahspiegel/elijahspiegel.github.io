@@ -6,6 +6,7 @@ permalink: /research/
 author_profile: true
 ---
 <br>
+---
 # Publications
 
 ## [Review of Gerhard Schurz's *Optimality Justifications*](https://www.cambridge.org/core/journals/philosophy-of-science/article/review-of-gerhard-schurzs-optimality-justifications/FF0FF6F69E8F98477D2633BCDC28B203){:target="_blank"}
