@@ -17,6 +17,7 @@ author_profile: true
 
 ## At the Edge of Putnam’s Program: Limitative Results for Computable Inductive Logics
 , with Antoine Mercier and Josiah Lopez-Wild
+
 **Micro-abstract:** We find consistent $\Delta^0_2$ probabilities defined over languages strong enough to express arithmetic and show this is the best one can do. This improves on existing approaches which are not even arithmetically definable.
 
 ## Expanding the Horizons of Meta-induction
@@ -25,6 +26,7 @@ Sterkenburg pointed out they can only predict one step into the future. I get th
 
 ## Verification and Merging
 , with Josiah Lopez-Wild
+
 **Micro-abstract:** We defend the Vienna Circle’s insight into the connection between verification and agreement without adopting verificationism by showing that coming to agreement on observation sentences entails coming to total agreement.
 
 ---
