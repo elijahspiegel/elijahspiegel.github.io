@@ -37,4 +37,4 @@ Sterkenburg pointed out they can only predict one step into the future. I get th
 ## Theory-laden Evidence and Incommensurability in a Bayesian Setting
 **Micro-abstract:** I explicate the requisite concepts and, subject to the explications, prove the incommensurability of scientific theories in the theory-laden setting.
 
-[Draft available](/_drafts/Bayesian_Confirmation_and_Theory_laden_Evidence.pdf)
+[Draft available](/files/Bayesian-Theory-ladenness.pdf)
